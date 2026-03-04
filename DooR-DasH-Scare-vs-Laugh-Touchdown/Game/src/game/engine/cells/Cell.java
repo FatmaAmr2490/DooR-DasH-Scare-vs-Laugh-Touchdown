@@ -2,13 +2,13 @@ package game.engine.cells;
 
 import game.engine.monsters.Monster;
 
-public class Cells {
+public class Cell {
 
     
     private String name;
     public Monster monster;
     
-    public Cells(String name) {
+    public Cell(String name) {
         this.name = name;
         monster = null;
     }

@@ -1,7 +1,7 @@
 package game.engine.cells;
 import javax.management.relation.Role;
 
-public class DoorCell extends Cells {
+public class DoorCell extends Cell {
     
     private  Role role;
     private int energy;
