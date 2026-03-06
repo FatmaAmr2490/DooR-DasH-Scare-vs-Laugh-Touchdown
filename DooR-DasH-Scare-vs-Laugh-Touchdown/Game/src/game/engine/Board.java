@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import javax.smartcardio.Card;
 
 import game.engine.monsters.Monster;
+import game.engine.cards.Card ;
 
 public class Board {
     //private Cells[][] boardCells;
